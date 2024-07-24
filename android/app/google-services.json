@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569803437376",
+    "project_id": "promoteher-b7950",
+    "storage_bucket": "promoteher-b7950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569803437376:android:de7499ad59f247edc676a5",
+        "android_client_info": {
+          "package_name": "com.example.firebaseflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxUQhIEJ2J_EQQ99OKUAtSNyKNyavLnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
